@@ -1,4 +1,4 @@
-package com.counter
+package com.fpb.counter
 
 import android.app.Application
 import com.facebook.react.PackageList
